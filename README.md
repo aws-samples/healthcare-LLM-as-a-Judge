@@ -4,7 +4,7 @@ This repository demonstrates the evaluation of healthcare generative AI applicat
 
 ## Overview
 
-![Alt text](rag_eval_healthcare.drawio.png  "Solution Overview")
+![Alt text](rag_eval_healthcare.png  "Solution Overview")
 
 The project showcases:
 - Data processing for medical RAG evaluation
